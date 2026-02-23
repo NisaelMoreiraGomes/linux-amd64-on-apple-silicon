@@ -1,6 +1,6 @@
-# x86_x64-on-apple-silicon
+# Linux/AMD64 on Apple Silicon
 
-A container for working with NASM and GCC targeting x86_x64 on Apple Silicon.
+A container for working with NASM and GCC targeting linux/amd64 on Apple Silicon.
 It was created out of my need to run these tools in an environment completely different from my machine’s architecture and operating system.
 
 It also works for ARM Linux distributions that need to compile for x86_x64.
